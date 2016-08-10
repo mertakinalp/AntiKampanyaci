@@ -1,0 +1,70 @@
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\AntiKampanyaci.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\AntiKampanyaci.pdb
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\Antlr3.Runtime.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\Facebook.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\Microsoft.AspNet.Mvc.Facebook.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\Microsoft.Web.Infrastructure.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\Newtonsoft.Json.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Net.Http.Formatting.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Helpers.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Http.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Http.WebHost.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Mvc.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Optimization.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Razor.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.Deployment.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.Razor.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\WebGrease.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\Facebook.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\Newtonsoft.Json.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Net.Http.Formatting.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Helpers.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Http.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Http.WebHost.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Mvc.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\Microsoft.AspNet.Mvc.Facebook.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Razor.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.Deployment.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.Razor.xml
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\obj\Debug\AntiKampanyaci.csprojResolveAssemblyReference.cache
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\obj\Debug\AntiKampanyaci.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\obj\Debug\AntiKampanyaci.pdb
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\EntityFramework.dll
+c:\users\merta\documents\visual studio 2012\Projects\AntiKampanyaci\AntiKampanyaci\bin\EntityFramework.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\AntiKampanyaci.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\AntiKampanyaci.pdb
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\Antlr3.Runtime.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\EntityFramework.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\Facebook.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\Microsoft.AspNet.Mvc.Facebook.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\Microsoft.Web.Infrastructure.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\Newtonsoft.Json.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Net.Http.Formatting.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Helpers.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Http.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Http.WebHost.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Mvc.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Optimization.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Razor.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.Deployment.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.Razor.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\WebGrease.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\EntityFramework.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\Facebook.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\Newtonsoft.Json.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Net.Http.Formatting.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Helpers.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Http.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Http.WebHost.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Mvc.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\Microsoft.AspNet.Mvc.Facebook.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.Razor.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.Deployment.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\bin\System.Web.WebPages.Razor.xml
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\obj\Debug\AntiKampanyaci.csprojResolveAssemblyReference.cache
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\obj\Debug\AntiKampanyaci.dll
+E:\Projeler\kollektif\AntiKampanyaci\AntiKampanyaci\obj\Debug\AntiKampanyaci.pdb

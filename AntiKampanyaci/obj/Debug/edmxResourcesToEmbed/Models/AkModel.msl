@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AkModelsStoreContainer" CdmEntityContainer="AkEntities">
+    <EntitySetMapping Name="tblLogins">
+      <EntityTypeMapping TypeName="AkModels.tblLogin">
+        <MappingFragment StoreEntitySet="tblLogins">
+          <ScalarProperty Name="LoginAttemptId" ColumnName="LoginAttemptId" />
+          <ScalarProperty Name="LoginDate" ColumnName="LoginDate" />
+          <ScalarProperty Name="LoginDatetime" ColumnName="LoginDatetime" />
+          <ScalarProperty Name="FacebookId" ColumnName="FacebookId" />
+          <ScalarProperty Name="isAdmin" ColumnName="isAdmin" />
+          <ScalarProperty Name="IP" ColumnName="IP" />
+          <ScalarProperty Name="UserAgent" ColumnName="UserAgent" />
+          <ScalarProperty Name="FacebookName" ColumnName="FacebookName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblBans">
+      <EntityTypeMapping TypeName="AkModels.tblBan">
+        <MappingFragment StoreEntitySet="tblBans">
+          <ScalarProperty Name="FacebookId" ColumnName="FacebookId" />
+          <ScalarProperty Name="BanDatetime" ColumnName="BanDatetime" />
+          <ScalarProperty Name="BanDate" ColumnName="BanDate" />
+          <ScalarProperty Name="BanId" ColumnName="BanId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AkModels" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="AkEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="tblLogins" EntityType="AkModels.tblLogin" />
+    <EntitySet Name="tblBans" EntityType="AkModels.tblBan" />
+  </EntityContainer>
+  <EntityType Name="tblLogin">
+    <Key>
+      <PropertyRef Name="LoginAttemptId" />
+    </Key>
+    <Property Name="LoginAttemptId" Type="Int64" Nullable="false" />
+    <Property Name="LoginDate" Type="DateTime" Precision="0" />
+    <Property Name="LoginDatetime" Type="DateTime" Precision="3" />
+    <Property Name="FacebookId" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="isAdmin" Type="Boolean" />
+    <Property Name="IP" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="UserAgent" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="FacebookName" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="tblBan">
+    <Key>
+      <PropertyRef Name="BanId" />
+    </Key>
+    <Property Type="Int64" Name="BanId" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="BanDate" Precision="0" />
+    <Property Type="DateTime" Name="BanDatetime" Precision="3" />
+    <Property Type="String" Name="FacebookId" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

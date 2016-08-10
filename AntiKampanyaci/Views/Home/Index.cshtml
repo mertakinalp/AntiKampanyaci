@@ -1,0 +1,39 @@
+﻿@using AntiKampanyaci.Models
+@using Microsoft.AspNet.Mvc.Facebook.Models
+@model MyAppUser
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<article class="intro">
+
+    <h3>Selam @Model.Name</h3>
+  
+</article>
+
+<article id="content">
+      @using (Html.BeginForm("Push", "Home"))
+                            {
+    <p>
+                           
+    <input type="text" name="FacebookId" id="FacebookId" /> idli facebook profilini yasaklı listesine/den
+        <select id="op" name="op">
+            <option value="1" selected="selected">Yasakla</option>
+            <option value="0" >Çıkar</option>
+        </select>
+        <input type="submit" />
+                                 
+        </p>
+                            }
+
+   <p>
+       @if (ViewBag.result != null && ViewBag.result != "")
+       {
+           string msg = "";
+
+           msg = "İşleminiz şu şekilde sonuçlandı ; " + ViewBag.result;
+           
+           @msg
+       }
+   </p>
+</article>

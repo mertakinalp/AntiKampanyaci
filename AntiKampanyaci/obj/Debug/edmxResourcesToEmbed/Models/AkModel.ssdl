@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AkModels.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="AkModelsStoreContainer">
+    <EntitySet Name="tblBans" EntityType="AkModels.Store.tblBans" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="tblLogins" EntityType="AkModels.Store.tblLogins" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="tblBans">
+    <Key>
+      <PropertyRef Name="BanId" />
+    </Key>
+    <Property Name="BanId" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="BanDate" Type="date" />
+    <Property Name="BanDatetime" Type="datetime" />
+    <Property Name="FacebookId" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="tblLogins">
+    <Key>
+      <PropertyRef Name="LoginAttemptId" />
+    </Key>
+    <Property Name="LoginDate" Type="date" />
+    <Property Name="LoginDatetime" Type="datetime" />
+    <Property Name="FacebookId" Type="nvarchar(max)" />
+    <Property Name="isAdmin" Type="bit" />
+    <Property Name="IP" Type="nvarchar(max)" />
+    <Property Name="UserAgent" Type="nvarchar(max)" />
+    <Property Name="FacebookName" Type="nvarchar(max)" />
+    <Property Name="LoginAttemptId" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+  </EntityType>
+</Schema>
